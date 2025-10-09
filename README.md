@@ -1,7 +1,7 @@
 Q1.
 We did some investigating into the swing framework and found out that the swing framework is a GUI (graphical user interface) toolkit for java. It provides a lot of prebuilt components like buttons, text, fields and labels. We also found out that it uses an MVC pattern where it separates the model, view and input allowing the app to be program data independent.
 
-![Alt text](images/ClassDiagram.png)
+![Alt text](ClassDiagram.png)
 
 
 Q2.
